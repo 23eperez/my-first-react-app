@@ -6,7 +6,7 @@ function App() {
     
       <div className=  "App">
       <h1>
-        Hi, my name is Eduardo </h1>
+        Hi, my name is Eduardo! </h1>
       <img 
       src = '/smile.jpg'
       alt = "me"
